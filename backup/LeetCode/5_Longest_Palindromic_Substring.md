@@ -1,21 +1,10 @@
 ---
 layout: post
 comment:true
-title: 5. Longest Palindromic Substring
+title: 5.Longest Palindromic Substring
 show: 0
 ---
 
-**Description:** Given a string  **s**, find the longest palindromic substring in  **s**. You may assume that the maximum length of  **s**  is 1000.
-
-**Example 1:**
-<pre><code><b>Input:</b> "babad"
-<b>Output:</b>"bab"
-<b>Note:</b> "aba" is also a valid answer.
-</pre></code>
-**Example 2:**
-<pre><code><b>Input:</b> "cbbd"
-<b>Output:</b> "bb"
-</code></pre>
 >approach 1:暴力求解
 
 直接尝试所有的回文序列可能在的起始和结束位置（可以从序列长度最长的情况尝试到长度最小的情况）

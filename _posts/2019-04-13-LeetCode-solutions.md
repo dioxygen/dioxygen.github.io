@@ -4,7 +4,7 @@ title:  "LeetCode Solutions"
 categories: codeing
 ---
 
-#### 这篇博客是用来记录LeetCode的解题思路的，会持续，不过感觉自己是个“龟系“选手！ 
+#### 这篇博客是用来记录LeetCode的解题思路的，会持续更新，不过感觉自己是个“龟系“选手！
 <table>
     <tr align="center"><td>5. Longest Palindromic Substring</td>
 		<td><a href="https://leetcode.com/problems/longest-palindromic-substring">LeetCode</a></td>
