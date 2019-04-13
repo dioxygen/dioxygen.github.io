@@ -40,9 +40,28 @@ char* longestPalindrome(char* s) {
 
 >approach 3: 动态规划
 
-递推公式：$$p(i,j)=\begin{cases} true,\quad S_{i}...S_{j}是回文序列\\\\false,\quad否则\end{cases}$$
-因此:$$p(i,j)=(p(i+1,j-1)\&\&S_{i}==S_{j})$$
-初始条件：$$p(i,i)=true$$  $$p(i,i+1)=(S_{i}==S_{j})$$
+递推公式：
+
+$$
+p(i,j)=\begin{cases} true,\quad S_{i}...S_{j}是回文序列\\\\false,\quad否则\end{cases}
+$$
+
+因此:
+
+$$
+p(i,j)=(p(i+1,j-1)\&\&S_{i}==S_{j})
+$$
+
+初始条件：
+
+$$
+p(i,i)=true
+$$
+
+$$
+p(i,i+1)=(S_{i}==S_{j})
+$$
+
 ```c
 #define dp(r,c)   dp[(r)*size+c]//这里r没加括号因为优先级的关系出错
 char* longestPalindrome(char* s) {
