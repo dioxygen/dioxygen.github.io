@@ -1,6 +1,6 @@
 ---
 layout: post
-comment:true
+comment: true
 title: 5.Longest Palindromic Substring
 show: 0
 ---
