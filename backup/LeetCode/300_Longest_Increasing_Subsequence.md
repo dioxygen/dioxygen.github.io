@@ -30,7 +30,3 @@ int lengthOfLIS(int* nums, int numsSize) {
 >approach 2：结合二分查找的动态规划
 
 O(_n logn_)复杂度解法
-
->approach 2：结合二分查找的动态规划
-
-O(n logn)复杂度解法
