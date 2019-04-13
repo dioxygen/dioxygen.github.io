@@ -5,6 +5,18 @@ title: 5.Longest Palindromic Substring
 show: 0
 ---
 
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
 >approach 1:暴力求解
 
 直接尝试所有的回文序列可能在的起始和结束位置（可以从序列长度最长的情况尝试到长度最小的情况）
