@@ -2,7 +2,7 @@
 layout: page
 title: Project
 permalink: /project/
-icon: gears
+icon: glyphicon-cog
 type: page
 ---
 

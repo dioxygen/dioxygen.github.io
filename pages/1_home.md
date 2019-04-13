@@ -2,7 +2,7 @@
 layout: page
 title: Home
 permalink: /home/
-icon: home
+icon: glyphicon-home
 type: page
 ---
 

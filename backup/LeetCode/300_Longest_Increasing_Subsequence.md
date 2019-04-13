@@ -1,10 +1,10 @@
 ---
 layout: post
 comments: true
-title: Hello
+title: 300.Longest Increasing Subsequence解题记录
+show: 0
 ---
 
-## 300. Longest Increasing Subsequence解题记录
 >approach 1：动态规划
 
 O(_n<sup>2</sup>_)时间复杂度
