@@ -18,13 +18,13 @@ type: page
         <td >2018.06 --- now</td>  
         <td > 华中科技大学武汉光电国家研究中心，硕士在读</td>	
     </tr>
-    <tr>
+    <tr align="center">
 	    <td>2014.09 --- 2018.06</td>
-	    <td>毕业于华中科技大学计算机学院，获得学士学位</td>
+	    <td>华中科技大学计算机学院，本科</td>
 	</tr>
 </table>
 
 ## 联系方式
 邮箱：oxygen@hust.edu.cn
 
-
+Switch Friend Code: SW-6555-3347-5699
