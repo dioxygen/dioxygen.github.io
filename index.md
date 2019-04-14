@@ -2,4 +2,4 @@
 layout: frontpage
 ---
 
-Blogs are just my personal opinion. If you find an error in it, please let me know.
+This blog is just my personal opinion. If you find any errors in it, please let me know.
