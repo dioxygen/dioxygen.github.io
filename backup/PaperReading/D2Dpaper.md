@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: The Direct-to-Data (D2D) Cache: Navigating the Cache Hierarchy with a Single Lookup
+title: The Direct-to-Data (D2D) Cache:Navigating the Cache Hierarchy with a Single Lookup 
 show: 0
 ---
 
@@ -16,6 +16,7 @@ show: 0
 * 所有的cache line必须属于HUB中的一个有效页
 * 必须要思考的一个问题是采用eTLB辅助的方式比原先传统cache的访问方式，在L1 cache命中时是否存在优势？
 ![](https://github.com/dioxygen/markdown/raw/master/image/D2Dpaper/D2D框架.png)
+
 > 访问cache发生不同情况下的流程
 
 1. eTLB hit

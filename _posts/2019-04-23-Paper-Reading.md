@@ -14,7 +14,7 @@ categories: research
 	<tr align="center">
 		<td>cache</td>
 		<td><a href="https://dl.acm.org/citation.cfm?id=2665694">The Direct-to-Data (D2D) Cache: Navigating the Cache Hierarchy with a Single Lookup</a></td>
-		<td><a href="https://dioxygen.github.io/backup/PaperReading/D2Dpaper.md">扩展了TLB的表项内容，通过一种粗粒度的方式记录了cache line的位置信息</a></td>
+		<td><a href="https://dioxygen.github.io/backup/PaperReading/D2Dpaper">扩展了TLB的表项内容，通过一种粗粒度的方式记录了cache line的位置信息</a></td>
 	</tr>
 
 </table>
