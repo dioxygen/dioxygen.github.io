@@ -25,6 +25,8 @@ type: page
 </table>
 
 ## 联系方式
-邮箱：oxygen@hust.edu.cn
+Email：oxygen@hust.edu.cn
 
 Switch Friend Code: SW-6555-3347-5699
+
+WiFI password：595izi5s(for my forgetful sister)
