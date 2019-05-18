@@ -29,4 +29,4 @@ Email：oxygen@hust.edu.cn
 
 Switch Friend Code: SW-6555-3347-5699
 
-WiFI password：595izi5s(for my forgetful sister)
+WiFi password：595izi5s(for my forgetful sister)
